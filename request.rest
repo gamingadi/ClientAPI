@@ -1,0 +1,18 @@
+GET     http://localhost:2000/clients?email=adi@gmail.com&&pass=123456
+Content-Type:application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVmZjhiMWMwN2VmZTU1MWJlY2E5MzI0MiIsImVtYWlsIjoiYWJAYSIsImlhdCI6MTYxMjU3MTU1OCwiZXhwIjoxNjEyNjU3OTU4fQ.vMt4GOi1EzJes34Vw4Kkz568s3baVxSStjP_I6uSDLc
+
+# {   "img":"client.png",
+#     "name":"Admin",
+#     "email":"aa@aasds",
+#     "password":"icecream",
+#     "gst_id":"86764dsf",
+#     "contact_number":"3132",
+#     "pan_number":"3213",
+#     "gst_in":"321"
+# }
+{
+   
+    "email":"ab@a",
+    "pass":"icecream"
+}
